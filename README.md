@@ -33,20 +33,6 @@ My long-term goal is to **lead high-performing software teams and build scalable
 
 ---
 
-## Engineering Mindset
-
-Good software is not only about writing code.
-
-It is about designing systems that are:
-
-• Clear and maintainable  
-• Efficient and scalable  
-• Built with strong engineering fundamentals  
-
-I value **clarity, strong abstractions, disciplined execution, and long-term thinking** when designing software systems.
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -54,14 +40,6 @@ I value **clarity, strong abstractions, disciplined execution, and long-term thi
 C  
 Java  
 Python  
-
-### Core Computer Science
-
-Data Structures  
-Algorithms  
-Operating Systems  
-Computer Architecture  
-Concurrency  
 
 ### Software Engineering
 
