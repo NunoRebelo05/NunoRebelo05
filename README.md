@@ -101,4 +101,5 @@ Software that scales well is rarely accidental. It is designed.
 
 ## Connect
 
-LinkedIn: linkedin.com/in/nuno-rebelo-4182b029a
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nuno-rebelo-4182b029a)
+
